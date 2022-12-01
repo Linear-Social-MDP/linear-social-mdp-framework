@@ -4,7 +4,7 @@ This repository hosts the code for the paper [_Linear Social MDPs_](https://line
 
 ## Prerequisite
 
-Please refer to [SETUP.md](SETUP.md) for instructions on setting up a build environment as a non-root user.
+Please ensure that you have recent version of CMake, Clang, CUDA Toolkit, Vcpkg installed on to the system.
 
 ## Building
 
