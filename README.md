@@ -2,10 +2,6 @@
 
 This repository hosts the code for the paper [_Linear Social MDPs_](https://linear-social-mdp.github.io). The solver targets the two-agent grid world scenario in the paper and uses C++ with CUDA for high performance.
 
-## Prerequisite
-
-Please ensure that you have recent version of CMake, Clang, CUDA Toolkit, Vcpkg installed on your system.
-
 ## Building
 
 The build requirements:
